@@ -1,1 +1,1 @@
-[![nekitdev](https://github-readme-stats.vercel.app/api?username=nekitdev&include_all_commits=true&hide=issues,contribs&theme=midnight-purple&disable_animations=true&show_icons=true&custom_title=nekitdev)](#)
+[![nekitdev](https://github-readme-stats.vercel.app/api?username=nekitdev&include_all_commits=true&hide=issues,contribs&theme=midnight-purple&show_icons=true&custom_title=nekitdev)](https://nekit.dev)
