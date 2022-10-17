@@ -1,10 +1,12 @@
-# nekitdev
+# [nekitdev][Web]
 
 > *Building awesome software.*
 
 **Nikita Tikhonov**, 17-year-old software developer from Moscow, Russia.
 
-[![nekitdev][stats]][nekitdev]
+CEO of [MelodyKit][MelodyKit], Software Engineering (CS) Student, [INFP][INFP], [he/they][Pronouns].
+
+[![nekitdev][Statistics]][Here]
 
 ## Projects
 
@@ -42,13 +44,21 @@
 
 ## Resume
 
-You can find my resume [here][resume].
+You can find my resume [here][Resume].
 
-[nekitdev]: https://nekit.dev/
+[Web]: https://nekit.dev/
 
-[resume]: https://nekit.dev/resume
+[MelodyKit]: https://melodykit.app/
 
-[stats]: https://github-readme-stats.vercel.app/api?username=nekitdev&include_all_commits=true&hide=contribs&theme=github_dark&show_icons=true&custom_title=nekitdev
+[INFP]: https://16personalities.com/infp-personality
+
+[Pronouns]: https://pronouns.page/@nekitdev
+
+[Here]: #
+
+[Statistics]: https://github-readme-stats.vercel.app/api?username=nekitdev&include_all_commits=true&hide=contribs&theme=github_dark&show_icons=true&custom_title=nekitdev
+
+[Resume]: https://nekit.dev/resume
 
 [gd.py]: https://github.com/nekitdev/gd.py
 [iters]: https://github.com/nekitdev/iters
