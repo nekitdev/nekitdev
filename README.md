@@ -38,9 +38,9 @@ CEO of [MelodyKit][MelodyKit], Software Engineering (CS) Student, [INFP][INFP], 
 
 > *Building changelogs from fragments.*
 
-### [`enum-extensions`][enum-extensions]
+### [`solus`][solus]
 
-> *Enhanced enumerations for Python.*
+> *Singleton types.*
 
 ## Resume
 
@@ -67,4 +67,4 @@ You can find my resume [here][Resume].
 [nekit.dev]: https://github.com/nekitdev/nekit.dev
 [entrypoint]: https://github.com/nekitdev/entrypoint
 [changelogging]: https://github.com/nekitdev/changelogging
-[enum-extensions]: https://github.com/nekitdev/enum-extensions
+[solus]: https://github.com/nekitdev/solus
