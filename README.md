@@ -18,6 +18,10 @@ CEO of [MelodyKit][MelodyKit], Software Engineering (CS) Student, [INFP][INFP], 
 
 > *Composable external iteration.*
 
+### [`funcs`][funcs]
+
+> *Functional programming in Python.*
+
 ### [`wraps`][wraps]
 
 > *Meaningful and safe wrapping types.*
@@ -62,6 +66,7 @@ You can find my resume [here][Resume].
 
 [gd.py]: https://github.com/nekitdev/gd.py
 [iters]: https://github.com/nekitdev/iters
+[funcs]: https://github.com/nekitdev/funcs
 [wraps]: https://github.com/nekitdev/wraps
 [versions]: https://github.com/nekitdev/versions
 [nekit.dev]: https://github.com/nekitdev/nekit.dev
