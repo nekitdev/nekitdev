@@ -6,8 +6,6 @@
 
 CEO of [MelodyKit][MelodyKit], Software Engineering (CS) Student, [INFP][INFP], [he/they][Pronouns].
 
-[![nekitdev][Statistics]][Here]
-
 ## Projects
 
 ### [`gd.py`][gd.py]
@@ -57,10 +55,6 @@ You can find my resume [here][Resume].
 [INFP]: https://16personalities.com/infp-personality
 
 [Pronouns]: https://pronouns.page/@nekitdev
-
-[Here]: #
-
-[Statistics]: https://github-readme-stats.vercel.app/api?username=nekitdev&include_all_commits=true&hide=contribs&theme=github_dark&show_icons=true&custom_title=nekitdev
 
 [Resume]: https://nekit.dev/resume
 
