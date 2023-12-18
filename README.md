@@ -4,7 +4,7 @@
 
 **Nikita Tikhonov**, 18-year-old software developer from Moscow, Russia.
 
-CEO of [MelodyKit][MelodyKit], Software Engineering (CS) Student, [INFP][INFP], [he/they][Pronouns].
+CEO of [MelodyKit][MelodyKit], [INFP][INFP], [he/they][Pronouns].
 
 ## Projects
 
