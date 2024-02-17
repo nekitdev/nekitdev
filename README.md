@@ -1,54 +1,31 @@
 # [nekitdev][Web]
 
+[![Discord][Discord Badge]][Discord]
+[![Keybase][Keybase Badge]][Keybase]
+[![Telegram][Telegram Badge]][Telegram]
+[![Funding][Funding Badge]][Funding]
+
 > *Building awesome software.*
 
 **Nikita Tikhonov**, 19-year-old software developer from Moscow, Russia.
 
 CEO of [MelodyKit][MelodyKit], [INFP][INFP], [he/they][Pronouns].
 
-## Projects
-
-### [`gd.py`][gd.py]
-
-> *An API wrapper for Geometry Dash written in Python.*
-
-### [`iters`][iters]
-
-> *Composable external iteration.*
-
-### [`funcs`][funcs]
-
-> *Functional programming in Python.*
-
-### [`wraps`][wraps]
-
-> *Meaningful and safe wrapping types.*
-
-### [`versions`][versions]
-
-> *Parsing, inspecting and specifying versions.*
-
-### [`nekit.dev`][nekit.dev]
-
-> *Personal website written in Python.*
-
-### [`entrypoint`][entrypoint]
-
-> *Decorated functions as entry points.*
-
-### [`changelogging`][changelogging]
-
-> *Building changelogs from fragments.*
-
-### [`solus`][solus]
-
-> *Singleton types.*
-
 ## Resume
 
 You can find my resume [here][Resume].
 
 [Web]: https://nekit.dev/
+
+[Discord]: https://nekit.dev/discord
+[Keybase]: https://nekit.dev/keybase
+[Telegram]: https://nekit.dev/telegram
+[Funding]: https://nekit.dev/funding
+
+[Discord Badge]: https://img.shields.io/badge/discord-nekitdev-5865F2
+[Keybase Badge]: https://img.shields.io/badge/keybase-nekitdev-FF6F21
+[Telegram Badge]: https://img.shields.io/badge/telegram-nekitdev-229ED9
+[Funding Badge]: https://img.shields.io/badge/funding-nekitdev-FF007F
 
 [MelodyKit]: https://melodykit.app/
 
@@ -57,13 +34,3 @@ You can find my resume [here][Resume].
 [Pronouns]: https://pronouns.page/@nekitdev
 
 [Resume]: https://nekit.dev/resume
-
-[gd.py]: https://github.com/nekitdev/gd.py
-[iters]: https://github.com/nekitdev/iters
-[funcs]: https://github.com/nekitdev/funcs
-[wraps]: https://github.com/nekitdev/wraps
-[versions]: https://github.com/nekitdev/versions
-[nekit.dev]: https://github.com/nekitdev/nekit.dev
-[entrypoint]: https://github.com/nekitdev/entrypoint
-[changelogging]: https://github.com/nekitdev/changelogging
-[solus]: https://github.com/nekitdev/solus
