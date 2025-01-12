@@ -7,7 +7,7 @@
 
 > *Building awesome software.*
 
-**Nikita Tikhonov**, 19-year-old software developer from Moscow, Russia.
+**Nikita Tikhonov**, 20-year-old software developer from Moscow, Russia.
 
 CEO of [MelodyKit][MelodyKit], [INFP][INFP], [he/they][Pronouns].
 
