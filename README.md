@@ -1,7 +1,6 @@
 # [nekitdev][Web]
 
 [![Discord][Discord Badge]][Discord]
-[![Keybase][Keybase Badge]][Keybase]
 [![Telegram][Telegram Badge]][Telegram]
 [![Funding][Funding Badge]][Funding]
 
@@ -18,12 +17,10 @@ You can find my resume [here][Resume].
 [Web]: https://nekit.dev/
 
 [Discord]: https://nekit.dev/discord
-[Keybase]: https://nekit.dev/keybase
 [Telegram]: https://nekit.dev/telegram
 [Funding]: https://nekit.dev/funding
 
 [Discord Badge]: https://img.shields.io/badge/discord-nekitdev-5865F2
-[Keybase Badge]: https://img.shields.io/badge/keybase-nekitdev-FF6F21
 [Telegram Badge]: https://img.shields.io/badge/telegram-nekitdev-229ED9
 [Funding Badge]: https://img.shields.io/badge/funding-nekitdev-FF007F
 
